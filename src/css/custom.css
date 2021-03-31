@@ -1,0 +1,12 @@
+.rbc-date-cell:hover{
+    background: #DDDDDD;
+    cursor: pointer;
+}
+.rbc-month-row {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    flex: 1 0;
+    overflow: hidden;
+    height: 100%;
+}
